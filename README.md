@@ -1,2 +1,2 @@
-# LGMVIP-Android.
+# LGMVIP-Android
 Task-2
